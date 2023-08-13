@@ -1,7 +1,9 @@
 # Mira Project Management App Website
 
 Mira is a landing page for a fictional project management app. This landing page contains product feature blocks, social proof bars, and pricing plan components.
+
 Live Implementation: https://mira-eight-beta.vercel.app/
+
 Tech Stack: Figma, HTML5, CSS3, JS
 
 
